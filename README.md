@@ -1,2 +1,2 @@
 # ly-opensuse
-A really cool repo that'll hopefully will work??? :/
+This is a fork of LY, modified to build with GNU Make and work properly on openSUSE with full submodule support and precompiled dependencies.
